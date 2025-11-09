@@ -98,7 +98,8 @@ I'm an Experienced Senior Fullstack Developer passionate about building scalable
         <h3><a href="https://github.com/shuakipie87/Lazertronas-Laravel-App">Lazertronas-Laravel-App</a></h3>
         <p>https://lazertronas.lt/rezervacija/ Booking System</p>
         <p>
-          <img src="https://img.shields.io/badge/Ruby-701516?style=flat&logo=ruby&logoColor=white" />
+          <img src="https://img.shields.io/badge/Laravel-f7523f?style=flat&logo=laravel&logoColor=white" />
+		  <img src="https://img.shields.io/badge/Ruby-701516?style=flat&logo=ruby&logoColor=white" />
           <img src="https://img.shields.io/github/stars/PayDeckCo/paydeck-ruby?style=social" />
         </p>
       </td>
@@ -106,6 +107,7 @@ I'm an Experienced Senior Fullstack Developer passionate about building scalable
         <h3><a href="https://github.com/shuakipie87/Dockerize-Shared-Php--NGinx--Mysql-Laravel-Project--Node--React--Next.js--Nuxt.js">Dockerize-Shared-Php--NGinx--Mysql-Laravel-Project--Node--React--Next.js--Nuxt.js</a></h3>
         <p>The Laravel Dockerize Project</p>
         <p>
+          <img src="https://img.shields.io/badge/Laravel-f7523f?style=flat&logo=laravel&logoColor=white" />
           <img src="https://img.shields.io/badge/Java-b07219?style=flat&logo=java&logoColor=white" />
           <img src="https://img.shields.io/github/stars/PayDeckCo/paydeck-java?style=social" />
         </p>
@@ -125,7 +127,7 @@ I'm an Experienced Senior Fullstack Developer passionate about building scalable
         <h3><a href="https://github.com/shuakipie87/Dockerize-Laravel-and-React">Docker Compose - React, Laravel, MySQL, PhpMyAdmin</a></h3>
         <p>SSH Easy Manager for lazy people</p>
         <p>
-          <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white" />
+          <img src="https://img.shields.io/badge/Laravel-f7523f?style=flat&logo=laravel&logoColor=white" />
           <img src="https://img.shields.io/github/stars/shuakipie87/ssh-connection-manager?style=social" />
           <img src="https://img.shields.io/github/forks/Niyiojeyinka/ssh-connection-manager?style=social" />
         </p>
